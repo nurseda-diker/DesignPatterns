@@ -52,10 +52,6 @@ Davranışsal tasarım desenleri, nesneler arasındaki işbirliği, iletişim ve
 - [Visitor Pattern](./Visitor) 🛠️: Bir nesne yapısındaki her elemana yeni bir işlem eklemek için kullanılır.
 - [Null Object Pattern](./NullObject) 🅾️: Null nesneleri kullanarak kontrol ifadelerini azaltmak için kullanılır.
 
-## 🤝 Katkıda Bulunma
-
-Eğer projeye katkıda bulunmak istiyorsanız, lütfen fork yapın ve pull request gönderin. Her türlü katkı ve geri bildirime açıktır.
-
 ## 📬Benimle İletişime Geçin
 
 Eğer sorularınız varsa veya projeye katkıda bulunmak istiyorsanız, benimle iletişime geçmekten çekinmeyin: </br> </br>
